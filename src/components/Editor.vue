@@ -1,7 +1,14 @@
 <template>
   <div class="container">
-    <editor-menu-bar :editor="editor" v-slot="{ commands, isActive }">
-      <div class="menubar">
+    <editor-floating-menu
+      :editor="editor"
+      v-slot="{ commands, isActive, menu }"
+    >
+      <div
+        class="editor__floating-menu"
+        :class="{ 'is-active': menu.isActive }"
+        :style="`top: ${menu.top}px`"
+      >
         <button
           class="menubar__button"
           :class="{ 'is-active': isActive.bold() }"
@@ -102,13 +109,13 @@
           <md-icon>redo</md-icon>
         </button>
       </div>
-    </editor-menu-bar>
+    </editor-floating-menu>
     <editor-content :editor="editor" />
   </div>
 </template>
 
 <script>
-import { Editor, EditorContent, EditorMenuBar } from "tiptap";
+import { Editor, EditorContent, EditorFloatingMenu } from "tiptap";
 import {
   Blockquote,
   CodeBlock,
@@ -136,7 +143,7 @@ export default {
   name: "Editor",
   components: {
     EditorContent,
-    EditorMenuBar,
+    EditorFloatingMenu,
   },
   data() {
     return {
@@ -183,6 +190,21 @@ export default {
 }
 .container {
   text-align: left;
+}
+.editor {
+  position: relative;
+  &__floating-menu {
+    position: absolute;
+    z-index: 1;
+    margin-top: -0.25rem;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.2s, visibility 0.2s;
+    &.is-active {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
 }
 blockquote {
   border-left: 1px solid var(--default-editor-color);
