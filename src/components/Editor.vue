@@ -134,7 +134,10 @@ import {
   Strike,
   Underline,
   History,
+  Placeholder,
 } from "tiptap-extensions";
+import Doc from "./Doc";
+import Title from "./Title";
 
 import javascript from "highlight.js/lib/languages/javascript";
 import css from "highlight.js/lib/languages/css";
@@ -152,8 +155,19 @@ export default {
   },
   mounted() {
     this.editor = new Editor({
-      content: "<p>This is just a boring paragraph</p> <h3> 123</h3>",
+      autoFocus: true,
       extensions: [
+        new Doc(),
+        new Title(),
+        new Placeholder({
+          showOnlyCurrent: false,
+          emptyNodeText: (node) => {
+            if (node.type.name === "title") {
+              return "Give me a name";
+            }
+            return "Write something";
+          },
+        }),
         new Blockquote(),
         new BulletList(),
         new CodeBlock(),
@@ -205,6 +219,15 @@ export default {
       visibility: visible;
     }
   }
+}
+.editor .is-empty:first-child:before,
+.editor .is-empty:nth-child(2):before {
+  content: attr(data-empty-text);
+  float: left;
+  color: rgb(255, 255, 255);
+  pointer-events: none;
+  height: 0;
+  font-style: italic;
 }
 blockquote {
   border-left: 1px solid var(--default-editor-color);
