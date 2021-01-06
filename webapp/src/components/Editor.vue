@@ -110,16 +110,24 @@
         </button>
       </div>
     </editor-floating-menu>
-    <editor-content :editor="editor" />
+    <template v-if="editor && !loading">
+      <div class="count">
+        {{ count }} {{ count === 1 ? "user" : "users" }} connected
+      </div>
+      <editor-content class="editor__content" :editor="editor" />
+    </template>
+    <em v-else> Connecting to socket server … </em>
   </div>
 </template>
 
 <script>
+import io from "socket.io-client";
 import { Editor, EditorContent, EditorFloatingMenu } from "tiptap";
 import {
   Blockquote,
   CodeBlock,
   CodeBlockHighlight,
+  Collaboration,
   HardBreak,
   Heading,
   HorizontalRule,
@@ -148,57 +156,108 @@ export default {
     EditorContent,
     EditorFloatingMenu,
   },
-  data() {
+  data: function () {
     return {
       editor: null,
+      loading: true,
+      socket: null,
+      count: 0,
     };
   },
+  methods: {
+    onInit: function ({ doc, version }) {
+      this.loading = false;
+
+      if (this.editor) {
+        this.editor.destroy();
+      }
+
+      this.editor = new Editor({
+        content: doc,
+        autoFocus: true,
+        extensions: [
+          new Collaboration({
+            version,
+            debounce: 250,
+            onSendable: ({ sendable }) => {
+              this.socket.emit("update", sendable);
+            },
+          }),
+          new Doc(),
+          new Title(),
+          new Placeholder({
+            showOnlyCurrent: false,
+            emptyNodeText: (node) => {
+              if (node.type.name === "title") {
+                return "Give me a name";
+              }
+              return "Write something";
+            },
+          }),
+          new Blockquote(),
+          new BulletList(),
+          new CodeBlock(),
+          new CodeBlockHighlight({
+            languages: {
+              javascript,
+              css,
+            },
+          }),
+          new HardBreak(),
+          new Heading({ levels: [1, 2, 3] }),
+          new HorizontalRule(),
+          new ListItem(),
+          new OrderedList(),
+          new TodoItem(),
+          new TodoList(),
+          new Link(),
+          new Bold(),
+          new Italic(),
+          new Strike(),
+          new Underline(),
+          new History(),
+        ],
+      });
+    },
+    setCount: function (count) {
+      this.count = count;
+    },
+  },
   mounted() {
-    this.editor = new Editor({
-      autoFocus: true,
-      extensions: [
-        new Doc(),
-        new Title(),
-        new Placeholder({
-          showOnlyCurrent: false,
-          emptyNodeText: (node) => {
-            if (node.type.name === "title") {
-              return "Give me a name";
-            }
-            return "Write something";
-          },
-        }),
-        new Blockquote(),
-        new BulletList(),
-        new CodeBlock(),
-        new CodeBlockHighlight({
-          languages: {
-            javascript,
-            css,
-          },
-        }),
-        new HardBreak(),
-        new Heading({ levels: [1, 2, 3] }),
-        new HorizontalRule(),
-        new ListItem(),
-        new OrderedList(),
-        new TodoItem(),
-        new TodoList(),
-        new Link(),
-        new Bold(),
-        new Italic(),
-        new Strike(),
-        new Underline(),
-        new History(),
-      ],
-    });
+    this.socket = io("http://127.0.0.1:3000")
+      .on("init", (data) => this.onInit(data))
+      .on("update", (data) =>
+        this.editor.extensions.options.collaboration.update(data)
+      )
+      .on("getCount", (count) => this.setCount(count));
   },
   beforeDestroy() {
     this.editor.destroy();
+    this.socket.destroy();
   },
 };
 </script>
 <style lang="scss">
+.count {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.5);
+  color: #27b127;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  line-height: 1;
+  &:before {
+    content: "";
+    display: inline-flex;
+    background-color: #27b127;
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    margin-right: 0.3rem;
+  }
+}
 .ProseMirror:focus {
   outline: none;
 }

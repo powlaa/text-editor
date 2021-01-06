@@ -1,0 +1,7923 @@
+[
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 155,
+            "to": 155,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19755,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 156,
+            "to": 156,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19756,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 155,
+            "to": 157,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "你"
+                    }
+                ]
+            }
+        },
+        "version": 19757,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 156,
+            "to": 156,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 19758,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 157,
+            "to": 157,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19759,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 156,
+            "to": 158,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "的"
+                    }
+                ]
+            }
+        },
+        "version": 19760,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 157,
+            "to": 157,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19761,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 158,
+            "to": 158,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19762,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 157,
+            "to": 159,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "则"
+                    }
+                ]
+            }
+        },
+        "version": 19763,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 158,
+            "to": 158,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19764,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 159,
+            "to": 159,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19765,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 160,
+            "to": 160,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19766,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 158,
+            "to": 161,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "在"
+                    }
+                ]
+            }
+        },
+        "version": 19767,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 159,
+            "to": 159,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19768,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 160,
+            "to": 160,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19769,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 161,
+            "to": 161,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19770,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 162,
+            "to": 162,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " h"
+                    }
+                ]
+            }
+        },
+        "version": 19771,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 164,
+            "to": 164,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "zheh l"
+                    }
+                ]
+            }
+        },
+        "version": 19772,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 164,
+            "to": 170,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "真理"
+                    }
+                ]
+            }
+        },
+        "version": 19773,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 166,
+            "to": 166,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " g"
+                    }
+                ]
+            }
+        },
+        "version": 19774,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 168,
+            "to": 168,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " b"
+                    }
+                ]
+            }
+        },
+        "version": 19775,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 170,
+            "to": 170,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19776,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 168,
+            "to": 171,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "bi a"
+                    }
+                ]
+            }
+        },
+        "version": 19777,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 166,
+            "to": 172,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g bian"
+                    }
+                ]
+            }
+        },
+        "version": 19778,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 166,
+            "to": 172,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " gbi a"
+                    }
+                ]
+            }
+        },
+        "version": 19779,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 168,
+            "to": 172,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " bi"
+                    }
+                ]
+            }
+        },
+        "version": 19780,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 170,
+            "to": 171
+        },
+        "version": 19781,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 168,
+            "to": 170
+        },
+        "version": 19782,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 166,
+            "to": 168
+        },
+        "version": 19783,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 154,
+            "to": 155
+        },
+        "version": 19784,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 153,
+            "to": 154
+        },
+        "version": 19785,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 152,
+            "to": 153
+        },
+        "version": 19786,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 151,
+            "to": 152
+        },
+        "version": 19787,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 162,
+            "to": 162,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19788,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 163,
+            "to": 163,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 19789,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 164,
+            "to": 164,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19790,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 165,
+            "to": 165,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " b"
+                    }
+                ]
+            }
+        },
+        "version": 19791,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 167,
+            "to": 167,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "de bi"
+                    }
+                ]
+            }
+        },
+        "version": 19792,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 172,
+            "to": 172,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " a"
+                    }
+                ]
+            }
+        },
+        "version": 19793,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 174,
+            "to": 174,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19794,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 172,
+            "to": 175,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "an d"
+                    }
+                ]
+            }
+        },
+        "version": 19795,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 176,
+            "to": 176,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19796,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 167,
+            "to": 177,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "的变的"
+                    }
+                ]
+            }
+        },
+        "version": 19797,
+        "clientID": 1922431760
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 170,
+            "to": 170,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19798,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 171,
+            "to": 171,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19799,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 172,
+            "to": 172,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 19800,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 173,
+            "to": 173,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " z"
+                    }
+                ]
+            }
+        },
+        "version": 19801,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 175,
+            "to": 175,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "zhu"
+                    }
+                ]
+            }
+        },
+        "version": 19802,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 178,
+            "to": 178,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 19803,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 180,
+            "to": 180,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19804,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 181,
+            "to": 181,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "zhu shi"
+                    }
+                ]
+            }
+        },
+        "version": 19805,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 181,
+            "to": 188,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "注视"
+                    }
+                ]
+            }
+        },
+        "version": 19806,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 183,
+            "to": 183,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "y"
+                    }
+                ]
+            }
+        },
+        "version": 19807,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 184,
+            "to": 184,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19808,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 185,
+            "to": 185,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19809,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 187,
+            "to": 187,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19810,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 188,
+            "to": 188,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19811,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 183,
+            "to": 189,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "一下"
+                    }
+                ]
+            }
+        },
+        "version": 19812,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 185,
+            "to": 185,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19813,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 186,
+            "to": 186,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        },
+        "version": 19814,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 187,
+            "to": 187,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19815,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 188,
+            "to": 188,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19816,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 187,
+            "to": 189,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "你"
+                    }
+                ]
+            }
+        },
+        "version": 19817,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 188,
+            "to": 188,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19818,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 189,
+            "to": 189,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19819,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 190,
+            "to": 190,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19820,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 191,
+            "to": 191,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " g"
+                    }
+                ]
+            }
+        },
+        "version": 19821,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 188,
+            "to": 193,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "这个"
+                    }
+                ]
+            }
+        },
+        "version": 19822,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 190,
+            "to": 190,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "q"
+                    }
+                ]
+            }
+        },
+        "version": 19823,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 190,
+            "to": 191
+        },
+        "version": 19824,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 190,
+            "to": 190,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19825,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 191,
+            "to": 191,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19826,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 192,
+            "to": 192,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19827,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 192,
+            "to": 193
+        },
+        "version": 19828,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 191,
+            "to": 192
+        },
+        "version": 19829,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 191,
+            "to": 191,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 19830,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 192,
+            "to": 192,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19831,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 193,
+            "to": 193,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19832,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 0,
+            "to": 195,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    }
+                ]
+            }
+        },
+        "version": 19833,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "zai c"
+                    }
+                ]
+            }
+        },
+        "version": 19834,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 19835,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 7,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19836,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 19837,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19838,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19839,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "在测试"
+                    }
+                ]
+            }
+        },
+        "version": 19840,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 7
+        },
+        "version": 19841,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 14,
+            "to": 14,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            }
+        },
+        "version": 19842,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 16,
+            "to": 16,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "y"
+                    }
+                ]
+            }
+        },
+        "version": 19843,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 17,
+            "to": 17,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19844,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 18,
+            "to": 18,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yi x"
+                    }
+                ]
+            }
+        },
+        "version": 19845,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 22,
+            "to": 22,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19846,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 23,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19847,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 18,
+            "to": 24,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "一下"
+                    }
+                ]
+            }
+        },
+        "version": 19848,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 20,
+            "to": 20,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19849,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 21,
+            "to": 21,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19850,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 22,
+            "to": 22,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19851,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 23,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19852,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 24,
+            "to": 24,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "ch"
+                    }
+                ]
+            }
+        },
+        "version": 19853,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19854,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "长"
+                    }
+                ]
+            }
+        },
+        "version": 19855,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 24
+        },
+        "version": 19856,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 19857,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19858,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "she"
+                    }
+                ]
+            }
+        },
+        "version": 19859,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 31,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19860,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " m"
+                    }
+                ]
+            }
+        },
+        "version": 19861,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 34,
+            "to": 34,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19862,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 35,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "什么"
+                    }
+                ]
+            }
+        },
+        "version": 19863,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "q"
+                    }
+                ]
+            }
+        },
+        "version": 19864,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 31,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19865,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19866,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 33,
+            "to": 33,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 19867,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 34,
+            "to": 34,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " k"
+                    }
+                ]
+            }
+        },
+        "version": 19868,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 36,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "情况"
+                    }
+                ]
+            }
+        },
+        "version": 19869,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 13,
+            "to": 14
+        },
+        "version": 19870,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 13
+        },
+        "version": 19871,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 12
+        },
+        "version": 19872,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 11
+        },
+        "version": 19873,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 10
+        },
+        "version": 19874,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 9
+        },
+        "version": 19875,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 8
+        },
+        "version": 19876,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 7
+        },
+        "version": 19877,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 6
+        },
+        "version": 19878,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 5
+        },
+        "version": 19879,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 4
+        },
+        "version": 19880,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 3
+        },
+        "version": 19881,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 2
+        },
+        "version": 19882,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 19,
+            "to": 19,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 19883,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19884,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 2,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19885,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19886,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19887,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 19888,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19889,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19890,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19891,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19892,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "重现"
+                    }
+                ]
+            }
+        },
+        "version": 19893,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 19894,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19895,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19896,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 6
+        },
+        "version": 19897,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 5
+        },
+        "version": 19898,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 4
+        },
+        "version": 19899,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 3
+        },
+        "version": 19900,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 2
+        },
+        "version": 19901,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19902,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 2,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19903,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19904,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19905,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19906,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 19907,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19908,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 29,
+            "to": 29,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19909,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19910,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 31,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " m"
+                    }
+                ]
+            }
+        },
+        "version": 19911,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 33,
+            "to": 33,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19912,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 34,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "什么"
+                    }
+                ]
+            }
+        },
+        "version": 19913,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 7
+        },
+        "version": 19914,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 19915,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19916,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19917,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19918,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19919,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "重现"
+                    }
+                ]
+            }
+        },
+        "version": 19920,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "w"
+                    }
+                ]
+            }
+        },
+        "version": 19921,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19922,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19923,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " t"
+                    }
+                ]
+            }
+        },
+        "version": 19924,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19925,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "问题"
+                    }
+                ]
+            }
+        },
+        "version": 19926,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 3
+        },
+        "version": 19927,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 2
+        },
+        "version": 19928,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19929,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 2,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19930,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19931,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 19932,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 19933,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 19934,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 34,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿斯顿发"
+                    }
+                ]
+            }
+        },
+        "version": 19935,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19936,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19937,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 19938,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19939,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19940,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19941,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19942,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "重现"
+                    }
+                ]
+            }
+        },
+        "version": 19943,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 19944,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 4
+        },
+        "version": 19945,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 3
+        },
+        "version": 19946,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 2
+        },
+        "version": 19947,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19948,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19949,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 2,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19950,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19951,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19952,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 19953,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 19954,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19955,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19956,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 39,
+            "to": 39,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 19957,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 40,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 19958,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 41,
+            "to": 41,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 19959,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19960,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 44,
+            "to": 44,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19961,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 39,
+            "to": 45,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "测试"
+                    }
+                ]
+            }
+        },
+        "version": 19962,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 41,
+            "to": 41,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 19963,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 42,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19964,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19965,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 44,
+            "to": 44,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " k"
+                    }
+                ]
+            }
+        },
+        "version": 19966,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 46,
+            "to": 46,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19967,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 47,
+            "to": 47,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19968,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 41,
+            "to": 48,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "看看"
+                    }
+                ]
+            }
+        },
+        "version": 19969,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19970,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "重新"
+                    }
+                ]
+            }
+        },
+        "version": 19971,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 3,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 19972,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19973,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19974,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 19975,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 3,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "开始"
+                    }
+                ]
+            }
+        },
+        "version": 19976,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "b"
+                    }
+                ]
+            }
+        },
+        "version": 19977,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19978,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 7,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " a"
+                    }
+                ]
+            }
+        },
+        "version": 19979,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "an"
+                    }
+                ]
+            }
+        },
+        "version": 19980,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " j"
+                    }
+                ]
+            }
+        },
+        "version": 19981,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19982,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "编辑"
+                    }
+                ]
+            }
+        },
+        "version": 19983,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 7,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 19984,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 42,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19985,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 43
+        },
+        "version": 19986,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 42,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "x"
+                    }
+                ]
+            }
+        },
+        "version": 19987,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 19988,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 44,
+            "to": 44,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19989,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 45,
+            "to": 45,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 19990,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 8,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19991,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19992,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 19993,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " c"
+                    }
+                ]
+            }
+        },
+        "version": 19994,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 13,
+            "to": 13,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19995,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 52,
+            "to": 52,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " g"
+                    }
+                ]
+            }
+        },
+        "version": 19996,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 48,
+            "to": 54,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "效果"
+                    }
+                ]
+            }
+        },
+        "version": 19997,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 50,
+            "to": 50,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 19998,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 51,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 19999,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 52,
+            "to": 52,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 20000,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 53,
+            "to": 53,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " b"
+                    }
+                ]
+            }
+        },
+        "version": 20001,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 55,
+            "to": 55,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 20002,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 13,
+            "to": 14
+        },
+        "version": 20003,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 13
+        },
+        "version": 20004,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 11
+        },
+        "version": 20005,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 10
+        },
+        "version": 20006,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 51,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " h"
+                    }
+                ]
+            }
+        },
+        "version": 20007,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 53,
+            "to": 53,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20008,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 54,
+            "to": 54,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 20009,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 45,
+            "to": 55,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "好不好"
+                    }
+                ]
+            }
+        },
+        "version": 20010,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 20011,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20012,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20013,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " h"
+                    }
+                ]
+            }
+        },
+        "version": 20014,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 14,
+            "to": 14,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20015,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 15,
+            "to": 15,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20016,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 16,
+            "to": 16,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 20017,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 8,
+            "to": 17,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "换行"
+                    }
+                ]
+            }
+        },
+        "version": 20018,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 20019,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 50,
+            "to": 50,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20020,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 11
+        },
+        "version": 20021,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 50,
+            "to": 50,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20022,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 51,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20023,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 10,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "c"
+                    }
+                ]
+            }
+        },
+        "version": 20024,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 20025,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20026,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 54,
+            "to": 56,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "你"
+                    }
+                ]
+            }
+        },
+        "version": 20027,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 55,
+            "to": 55,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 20028,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 56,
+            "to": 56,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20029,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 57,
+            "to": 57,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20030,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 58,
+            "to": 58,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " k"
+                    }
+                ]
+            }
+        },
+        "version": 20031,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 60,
+            "to": 60,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20032,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 61,
+            "to": 61,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20033,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 55,
+            "to": 62,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "看看"
+                    }
+                ]
+            }
+        },
+        "version": 20034,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 14
+        },
+        "version": 20035,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20036,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 10,
+            "to": 14,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "城市"
+                    }
+                ]
+            }
+        },
+        "version": 20037,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 12,
+            "to": 12,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20038,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 13,
+            "to": 13,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "k"
+                    }
+                ]
+            }
+        },
+        "version": 20039,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 14,
+            "to": 14,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " k"
+                    }
+                ]
+            }
+        },
+        "version": 20040,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 13,
+            "to": 16,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "看看"
+                    }
+                ]
+            }
+        },
+        "version": 20041,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 15,
+            "to": 15,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "y"
+                    }
+                ]
+            }
+        },
+        "version": 20042,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 16,
+            "to": 16,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "o"
+                    }
+                ]
+            }
+        },
+        "version": 20043,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 17,
+            "to": 17,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 20044,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 18,
+            "to": 18,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " m"
+                    }
+                ]
+            }
+        },
+        "version": 20045,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 20,
+            "to": 20,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 20046,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 21,
+            "to": 21,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20047,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 22,
+            "to": 22,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " y"
+                    }
+                ]
+            }
+        },
+        "version": 20048,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 15,
+            "to": 24,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "有没有"
+                    }
+                ]
+            }
+        },
+        "version": 20049,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 18,
+            "to": 18,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20050,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 19,
+            "to": 19,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " m"
+                    }
+                ]
+            }
+        },
+        "version": 20051,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 18,
+            "to": 21,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "什么"
+                    }
+                ]
+            }
+        },
+        "version": 20052,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 20,
+            "to": 20,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "w"
+                    }
+                ]
+            }
+        },
+        "version": 20053,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 21,
+            "to": 21,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 20054,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 22,
+            "to": 22,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20055,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 23,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " t"
+                    }
+                ]
+            }
+        },
+        "version": 20056,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20057,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 20,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "问题"
+                    }
+                ]
+            }
+        },
+        "version": 20058,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 65,
+            "to": 65,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "f"
+                    }
+                ]
+            }
+        },
+        "version": 20059,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 66,
+            "to": 66,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " j"
+                    }
+                ]
+            }
+        },
+        "version": 20060,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 68,
+            "to": 68,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " j"
+                    }
+                ]
+            }
+        },
+        "version": 20061,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 22,
+            "to": 22,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "。"
+                    }
+                ]
+            }
+        },
+        "version": 20062,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 71,
+            "to": 71,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20063,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 73,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " y"
+                    }
+                ]
+            }
+        },
+        "version": 20064,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 75,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " y"
+                    }
+                ]
+            }
+        },
+        "version": 20065,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 77,
+            "to": 77,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " y"
+                    }
+                ]
+            }
+        },
+        "version": 20066,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 66,
+            "to": 79,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "福建警方也一样"
+                    }
+                ]
+            }
+        },
+        "version": 20067,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 73,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20068,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 74,
+            "to": 74,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20069,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 75,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20070,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 76,
+            "to": 76,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20071,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 78,
+            "to": 78,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20072,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 80,
+            "to": 80,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20073,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 82,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿斯顿发"
+                    }
+                ]
+            }
+        },
+        "version": 20074,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 79,
+            "to": 79,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "q"
+                    }
+                ]
+            }
+        },
+        "version": 20075,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 80,
+            "to": 80,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " q"
+                    }
+                ]
+            }
+        },
+        "version": 20076,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 82,
+            "to": 82,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " q"
+                    }
+                ]
+            }
+        },
+        "version": 20077,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 79,
+            "to": 84,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "钱钱钱"
+                    }
+                ]
+            }
+        },
+        "version": 20078,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 23,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "z"
+                    }
+                ]
+            }
+        },
+        "version": 20079,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 24,
+            "to": 24,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 20080,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " y"
+                    }
+                ]
+            }
+        },
+        "version": 20081,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "这样"
+                    }
+                ]
+            }
+        },
+        "version": 20082,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20083,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 20084,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "的"
+                    }
+                ]
+            }
+        },
+        "version": 20085,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 26,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20086,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " h"
+                    }
+                ]
+            }
+        },
+        "version": 20087,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 29,
+            "to": 29,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 20088,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿虎"
+                    }
+                ]
+            }
+        },
+        "version": 20089,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20090,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 29,
+            "to": 29,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20091,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "爱上"
+                    }
+                ]
+            }
+        },
+        "version": 20092,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 89,
+            "to": 89,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20093,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 90,
+            "to": 90,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "q"
+                    }
+                ]
+            }
+        },
+        "version": 20094,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 91,
+            "to": 91,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20095,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 92,
+            "to": 92,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20096,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 93,
+            "to": 93,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 20097,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 94,
+            "to": 94,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " k"
+                    }
+                ]
+            }
+        },
+        "version": 20098,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 90,
+            "to": 96,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "情况"
+                    }
+                ]
+            }
+        },
+        "version": 20099,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 92,
+            "to": 92,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "r"
+                    }
+                ]
+            }
+        },
+        "version": 20100,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 93,
+            "to": 93,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "u"
+                    }
+                ]
+            }
+        },
+        "version": 20101,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 94,
+            "to": 94,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " h"
+                    }
+                ]
+            }
+        },
+        "version": 20102,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 96,
+            "to": 96,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 20103,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 92,
+            "to": 97,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "如何"
+                    }
+                ]
+            }
+        },
+        "version": 20104,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 94,
+            "to": 94,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20105,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 95,
+            "to": 95,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "h"
+                    }
+                ]
+            }
+        },
+        "version": 20106,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 96,
+            "to": 96,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20107,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 97,
+            "to": 97,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20108,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 98,
+            "to": 98,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " x"
+                    }
+                ]
+            }
+        },
+        "version": 20109,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 95,
+            "to": 100,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "还行"
+                    }
+                ]
+            }
+        },
+        "version": 20110,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 97,
+            "to": 97,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "，"
+                    }
+                ]
+            }
+        },
+        "version": 20111,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 98,
+            "to": 98,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20112,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 99,
+            "to": 99,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20113,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 101,
+            "to": 101,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20114,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 103,
+            "to": 103,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20115,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 105,
+            "to": 105,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20116,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 98,
+            "to": 107,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿斯顿发发"
+                    }
+                ]
+            }
+        },
+        "version": 20117,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 48,
+            "to": 48,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20118,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20119,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20120,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 52,
+            "to": 54,
+            "structure": true
+        },
+        "version": 20121,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 52
+        },
+        "version": 20122,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 50,
+            "to": 51
+        },
+        "version": 20123,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 49,
+            "to": 50
+        },
+        "version": 20124,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 48,
+            "to": 49
+        },
+        "version": 20125,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 47,
+            "to": 48
+        },
+        "version": 20126,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 46,
+            "to": 47
+        },
+        "version": 20127,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 45,
+            "to": 46
+        },
+        "version": 20128,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 44,
+            "to": 45
+        },
+        "version": 20129,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 44
+        },
+        "version": 20130,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 43
+        },
+        "version": 20131,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 41,
+            "to": 42
+        },
+        "version": 20132,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 41
+        },
+        "version": 20133,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 39,
+            "to": 40
+        },
+        "version": 20134,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 38,
+            "to": 39
+        },
+        "version": 20135,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 37,
+            "to": 38
+        },
+        "version": 20136,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 36,
+            "to": 37
+        },
+        "version": 20137,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 33,
+            "to": 35
+        },
+        "version": 20138,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 31,
+            "to": 33
+        },
+        "version": 20139,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 32,
+            "structure": true
+        },
+        "version": 20140,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 29,
+            "to": 30
+        },
+        "version": 20141,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 29
+        },
+        "version": 20142,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 28
+        },
+        "version": 20143,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 26,
+            "to": 27
+        },
+        "version": 20144,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 0,
+            "to": 82,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    }
+                ]
+            }
+        },
+        "version": 20145,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 1,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20146,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 2,
+            "to": 2,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20147,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20148,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 1,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "得到的"
+                    }
+                ]
+            }
+        },
+        "version": 20149,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20150,
+        "clientID": 243952981
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20151,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20152,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 7,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20153,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20154,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿斯顿发"
+                    }
+                ]
+            }
+        },
+        "version": 20155,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 4,
+            "to": 4,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        },
+        "version": 20156,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 5,
+            "to": 5,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        },
+        "version": 20157,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 6,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20158,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 7,
+            "to": 7,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20159,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 9,
+            "to": 9,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20160,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 11,
+            "to": 11,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20161,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 6,
+            "to": 13,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "阿斯顿发"
+                    }
+                ]
+            }
+        },
+        "version": 20162,
+        "clientID": 3899136809
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 14,
+            "to": 14,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20163,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 16,
+            "to": 16,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20164,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 17,
+            "to": 17,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20165,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 19,
+            "to": 19,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20166,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 21,
+            "to": 21,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20167,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 23,
+            "to": 23,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20168,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20169,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20170,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 29,
+            "to": 29,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20171,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 31,
+            "to": 31,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20172,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 16,
+            "to": 33,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "水电费水电费水电费"
+                    }
+                ]
+            }
+        },
+        "version": 20173,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 25,
+            "to": 25,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20174,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 27,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20175,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 28,
+            "to": 28,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20176,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 30,
+            "to": 30,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20177,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 32,
+            "to": 32,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20178,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 34,
+            "to": 34,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20179,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 36,
+            "to": 36,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20180,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 38,
+            "to": 38,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20181,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 40,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20182,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 42,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20183,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 44,
+            "to": 44,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20184,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 46,
+            "to": 46,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20185,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 27,
+            "to": 48,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "师傅水电费水电费水电费"
+                    }
+                ]
+            }
+        },
+        "version": 20186,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 38,
+            "to": 38,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20187,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 40,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20188,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 42,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20189,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20190,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 45,
+            "to": 45,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20191,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 47,
+            "to": 47,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20192,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 49,
+            "to": 49,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20193,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 51,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20194,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 53,
+            "to": 53,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20195,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 55,
+            "to": 55,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20196,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 57,
+            "to": 57,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20197,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 42,
+            "to": 59,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "水电费师傅水电费说"
+                    }
+                ]
+            }
+        },
+        "version": 20198,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 40,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20199,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 41,
+            "to": 41,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20200,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 43,
+            "to": 43,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20201,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 45,
+            "to": 45,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20202,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 47,
+            "to": 47,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20203,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 49,
+            "to": 49,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20204,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 51,
+            "to": 51,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20205,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 53,
+            "to": 53,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20206,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 55,
+            "to": 55,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20207,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 40,
+            "to": 57,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "水电费水电费水电费"
+                    }
+                ]
+            }
+        },
+        "version": 20208,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 62,
+            "to": 62,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20209,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 64,
+            "to": 64,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20210,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 65,
+            "to": 65,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20211,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 67,
+            "to": 67,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20212,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 69,
+            "to": 69,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20213,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 71,
+            "to": 71,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20214,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 73,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20215,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 75,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " s"
+                    }
+                ]
+            }
+        },
+        "version": 20216,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 77,
+            "to": 77,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " d"
+                    }
+                ]
+            }
+        },
+        "version": 20217,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 79,
+            "to": 79,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " f"
+                    }
+                ]
+            }
+        },
+        "version": 20218,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 64,
+            "to": 81,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "水电费水电费水电费"
+                    }
+                ]
+            }
+        },
+        "version": 20219,
+        "clientID": 3985562041
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 73,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20220,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 74,
+            "to": 74,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20221,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 75,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20222,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 76,
+            "to": 76,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20223,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 77,
+            "to": 77,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20224,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 77,
+            "to": 79,
+            "structure": true
+        },
+        "version": 20225,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 76,
+            "to": 77
+        },
+        "version": 20226,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 76
+        },
+        "version": 20227,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 74,
+            "to": 75
+        },
+        "version": 20228,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 74
+        },
+        "version": 20229,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 73,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20230,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 75,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20231,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 77,
+            "to": 77,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "I"
+                    }
+                ]
+            }
+        },
+        "version": 20232,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 78,
+            "to": 78,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        },
+        "version": 20233,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 79,
+            "to": 79,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20234,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 80,
+            "to": 80,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "m"
+                    }
+                ]
+            }
+        },
+        "version": 20235,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 81,
+            "to": 81,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        },
+        "version": 20236,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 82,
+            "to": 82,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "t"
+                    }
+                ]
+            }
+        },
+        "version": 20237,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 83,
+            "to": 83,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "e"
+                    }
+                ]
+            }
+        },
+        "version": 20238,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 84,
+            "to": 84,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "s"
+                    }
+                ]
+            }
+        },
+        "version": 20239,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 85,
+            "to": 85,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "t"
+                    }
+                ]
+            }
+        },
+        "version": 20240,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 86,
+            "to": 86,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "i"
+                    }
+                ]
+            }
+        },
+        "version": 20241,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 87,
+            "to": 87,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "n"
+                    }
+                ]
+            }
+        },
+        "version": 20242,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 88,
+            "to": 88,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "g"
+                    }
+                ]
+            }
+        },
+        "version": 20243,
+        "clientID": 2443276188
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 75,
+            "to": 89
+        },
+        "version": 20244,
+        "clientID": 571688474
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 73,
+            "to": 75,
+            "structure": true
+        },
+        "version": 20245,
+        "clientID": 571688474
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 62,
+            "to": 62,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20246,
+        "clientID": 3713048094
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 63,
+            "to": 63,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "d"
+                    }
+                ]
+            }
+        },
+        "version": 20247,
+        "clientID": 3713048094
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 64,
+            "to": 64,
+            "slice": {
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "a"
+                    }
+                ]
+            }
+        },
+        "version": 20248,
+        "clientID": 3713048094
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 76,
+            "to": 76,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20249,
+        "clientID": 690665682
+    },
+    {
+        "step": {
+            "stepType": "replace",
+            "from": 78,
+            "to": 78,
+            "slice": {
+                "content": [
+                    {
+                        "type": "paragraph"
+                    },
+                    {
+                        "type": "paragraph"
+                    }
+                ],
+                "openStart": 1,
+                "openEnd": 1
+            },
+            "structure": true
+        },
+        "version": 20250,
+        "clientID": 690665682
+    }
+]
